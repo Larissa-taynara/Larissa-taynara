@@ -10,7 +10,6 @@ por isso estou cursando Desenvolvimento de software Back-End.
 ##       
 ![giphy](https://github.com/Larissa-taynara/Larissa-taynara/assets/138536327/ae638fc6-0150-42d8-8528-b2bd27310475)
 
-
 <div style="display: inline_block"><br>
    <h3 align="center">Tecnologias utilizadas </h1>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,4 +27,3 @@ por isso estou cursando Desenvolvimento de software Back-End.
   
 </div>
 
-![Snake animation](https://github.com/Larissa-taynara/Larissa-taynara/blob/output/github-contribution-grid-snake.svg)
