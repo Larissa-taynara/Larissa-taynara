@@ -10,8 +10,7 @@ por isso estou cursando Desenvolvimento de software Back-End 💻.
 ##       
 ![giphy](https://github.com/Larissa-taynara/Larissa-taynara/assets/138536327/ae638fc6-0150-42d8-8528-b2bd27310475)
 
-<div style="display: inline_block"><br>
-   <h3 align="center">Tecnologias e ferramentas utilizadas </h1>
+**Tecnologias e Ferramentas**
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
