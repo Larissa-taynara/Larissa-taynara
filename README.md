@@ -22,19 +22,32 @@ Estou cursando desenvolvimento de software como foco em Back-End !
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
           
   
-</div>
 
-<h3 align="center">Minhas redes Sociais </h1>
-<div align="left">
-  <a href = "mailto:larissatanara.batista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href= "https://www.linkedin.com/in/larissa-taynara-b-1a759b65" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-### GitHub Stats ⚡
-<div style="width: 50%;">
-<a href="https://github.com/Larissa-taynara">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-taynara&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissa-taynara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<h3 align="center">Minhas Redes Sociais</h3>
+<div style="text-align: center;">
+  <a href="mailto:larissatanara.batista@gmail.com" style="display: inline-block; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
   </a>
+  <a href="https://www.linkedin.com/in/larissa-taynara-b-1a759b65" style="display: inline-block; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+  
+
+### GitHub Stats
+<div style="width: 50%;">
+  <table width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Larissa-taynara">
+          <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-taynara&layout=compact&langs_count=7&theme=dracula" style="width: 100%;">
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Larissa-taynara">
+          <img height="120em" src="https://github-readme-stats.vercel.app/api?username=larissa-taynara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="width: 100%;">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
