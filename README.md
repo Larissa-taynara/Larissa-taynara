@@ -13,7 +13,7 @@ Estou cursando desenvolvimento de software como foco em Back-End !
 ##       
 ![giphy](https://github.com/Larissa-taynara/Larissa-taynara/assets/138536327/ae638fc6-0150-42d8-8528-b2bd27310475)
 
-<h3 align="center">Tecnologias e Ferramentas utilizadas 💻 </h1>
+<h3 align="center"><span style="color:black">Tecnologias e Ferramentas utilizadas 💻 </h1>
 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -24,8 +24,8 @@ Estou cursando desenvolvimento de software como foco em Back-End !
   
 </div>
 
-<h3 align="center">Minhas redes Sociais </h1>
-<div align="center">
+<h3 align="center"><span style="color:black">Minhas redes Sociais </h1>
+<div align="left">
   <a href = "mailto:larissatanara.batista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/larissa-taynara-b-1a759b65" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
