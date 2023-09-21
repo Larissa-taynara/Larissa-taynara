@@ -1,6 +1,6 @@
 <div  align="center"> 
 
-### *SEJA BEM-VINDO ! 🙂*
+### *SEJA BEM-VINDO ! *
 
 <h4 align="center">
 
