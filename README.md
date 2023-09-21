@@ -24,7 +24,7 @@ Estou cursando desenvolvimento de software como foco em Back-End !
   
 </div>
 
-<h3 align="center"><span style="color:black">Minhas redes Sociais </h1>
+<h3 align="center">Minhas redes Sociais </h1>
 <div align="left">
   <a href = "mailto:larissatanara.batista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/larissa-taynara-b-1a759b65" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -32,8 +32,9 @@ Estou cursando desenvolvimento de software como foco em Back-End !
 </div>
 
 ### GitHub Stats ⚡
-<div>
+<div style="width: 50%;">
 <a href="https://github.com/Larissa-taynara">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-taynara&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissa-taynara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
