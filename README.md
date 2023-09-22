@@ -1,14 +1,14 @@
 <div  align="center"> 
 
-### *OLÁ, ME CHAMO LARISSA 👋 SEJA BEM-VINDO ! *
+### *OLÁ 👋 SEJA BEM-VINDO ! *
 
 <h4 align="center">
 
-Meu nome é Larissa Taynara sou engenheira de produção e apaixonada por tecnologia ! 
+Meu nome é Larissa Taynara sou desenvolvedora Back-End 💻 e extremamente apaixonada por tecnologias. 
 
-Eu sou uma desenvolvedora [Back-End]  💻.
+Sou muito curiosa e gosto sempre de estar me aperfeiçoando, por isso atualmente estou cursando desenvolvimento 
 
-Estou cursando desenvolvimento de software como foco em Back-End !
+de software com foco em Back-End na Cubos academy! 
 
 ##       
 ![giphy](https://github.com/Larissa-taynara/Larissa-taynara/assets/138536327/ae638fc6-0150-42d8-8528-b2bd27310475)
